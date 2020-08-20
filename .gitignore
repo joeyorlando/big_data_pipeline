@@ -1,0 +1,8 @@
+.vscode
+.code
+.DS_Store
+*:Zone.Identifier
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
